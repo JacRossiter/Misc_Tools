@@ -1,5 +1,5 @@
 (
-    rollout JacsRollout "JExport" width:264 height:40
+    rollout JacsRollout "JExport" width:264 height:48
     (
         button eButton "Export" pos:[8,8] width:72 height:24 
         button exportType "FBX" pos:[86,8] width:28 height:24
